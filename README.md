@@ -1,5 +1,5 @@
 
- Your project name
+VX OS
  ==============================
   
  Please, edit this file to fit your own project's details.
