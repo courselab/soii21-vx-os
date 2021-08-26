@@ -1,0 +1,1 @@
+Ao seguir as intruções contidas no readme, consegui reproduzir os exemplos no emulador. Havia tentado bootar em uma máquina real, porém não estava funcionando. Porém consegui após preparar o pendrive para ser reconhecido com os padrões corretos, de acordo com as instruções contidas no README.
